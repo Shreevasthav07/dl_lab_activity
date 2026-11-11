@@ -1,0 +1,13 @@
+tensorflow
+keras
+scikit-learn
+pandas
+matplotlib
+seaborn
+jupyter
+ipykernel
+notebook
+nbformat
+requests
+tqdm
+
